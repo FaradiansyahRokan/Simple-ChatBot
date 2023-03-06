@@ -92,20 +92,32 @@
   {
     "response_type": "question",
     "user_input": ["can" , "you" , "explain" , "to" , "me" , "about" ,"tubagus"],
-    "bot_response": "TB is a member of class 10 RPL who comes from Purwakarta, he is a person who is very passionate about what he likes, he will be willing to sacrifice a lot of time and energy to achieve what he wants.",
+    "bot_response": "TB is a member of class 10 RPL who comes from Purwakarta, he is a person who is very passionate about what he likes, \n he will be willing to sacrifice a lot of time and energy to achieve what he wants.",
     "required_words": ["explain", "about" , "tubagus"]
   },
   {
     "response_type": "question",
     "user_input": ["can" , "you" , "explain" , "to" , "me" , "about" ,"rakha"],
-    "bot_response": "Rakha was born in Jakarta, a person who is passionate about all things about software and business and he has a big dream of becoming a Chief Executive Officer (CEO) in a company.",
+    "bot_response": "Rakha was born in Jakarta, a person who is passionate about all things about software and \nbusiness and he has a big dream of becoming a Chief Executive Officer (CEO) in a company.",
     "required_words": ["explain", "about" , "rakha"]
   },
   {
     "response_type": "question",
     "user_input": ["can" , "you" , "explain" , "to" , "me" , "about" ,"nadhif"],
-    "bot_response": "Nadhif was born in Kisaran, Asahan, North Sumatra, a person who is as he is, happy to help, does not talk if it is not important, he also has high dreams such as having a lot of friends, making a big company with his friends and others.",
+    "bot_response": "Nadhif was born in Kisaran, Asahan, North Sumatra, a person who is as he is, happy to help, does not talk if it is not important, he also has high dreams such as having a lot \nof friends, making a big company with his friends and others.",
     "required_words": ["explain", "about" , "nadhif"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["can" , "you" , "explain" , "to" , "me" , "about" ,"faizul"],
+    "bot_response": "Faizul was born in Bogor city, West Java, Indonesia. He is a student at IDN BS majoring at Software Developer class. He was Born at September 14, 2006. \nHe interested in program and design.",
+    "required_words": ["explain", "about" , "faizul"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["can" , "you" , "explain" , "to" , "me" , "about" ,"ayyash"],
+    "bot_response": "ayyash was born in depok, he is a student at IDN BS Senior High School, majoring in Software Developer, he Has a hobby of reading books, \nhe was born on October 5, 2006",
+    "required_words": ["explain", "about" , "ayyash"]
   }
 
 
