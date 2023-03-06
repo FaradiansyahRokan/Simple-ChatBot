@@ -55,12 +55,6 @@
   },
   {
     "response_type": "question",
-    "user_input": ["who", "is", "he"],
-    "bot_response": "He is a student at idn Boarding school bogor who is now in grade 10 RPL Department, he is a person who has high ambition to achieve what he wants, the point is if he wants it, he can do it, if he can't try until he can.",
-    "required_words": ["who", "is", "he"]
-  },
-  {
-    "response_type": "question",
     "user_input": ["who", "is", "rokan"],
     "bot_response": "He is a student at idn Boarding school bogor who is now in grade 10 RPL Department, he is a person who has high ambition to achieve what he wants, the point is if he wants it, he can do it, if he can't try until he can.",
     "required_words": ["who", "is", "rokan"]
