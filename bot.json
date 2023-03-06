@@ -67,15 +67,46 @@
   },
   {
     "response_type": "question",
-    "user_input": ["X" , "RPL"],
+    "user_input": ["10" , "grade"],
     "bot_response": "Yes X RPL he Still 10th Grade !",
-    "required_words": ["X" , "RPL"]
+    "required_words": ["10" , "grade"]
   },
   {
     "response_type": "question",
     "user_input": ["who" , "are", "they", "in" , "class" , "X" , "RPL"],
     "bot_response": "in X RPL There is : Rokan , Faizul , Awan , Fachry , Farrel , Fahmi , TB , Atahllah , Aisy , Naufal , Nadhif , Rakha , Raihan , ayyash , Dzikra , Regno",
-    "required_words": ["who", "in" , "X" , "RPL"]
+    "required_words": ["who", "in" , "rpl"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["who" , "is" , "homeroom" , "techer" , "in" , "rpl"],
+    "bot_response": "The homeroom teacher of class 10 RPL is Ust.rival",
+    "required_words": ["who", "homeroom" , "teacher" , "rpl"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["who" , "is" , "homeroom" , "techer" , "in" , "rpl"],
+    "bot_response": "The homeroom teacher of class 10 RPL is Ust.rival",
+    "required_words": ["who", "homeroom" , "teacher" , "rpl"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["who" , "is" , "class" , "leader" , "in" , "rpl"],
+    "bot_response": "class leader of class 10 RPL is Rokan Subhi Faradiansyah",
+    "required_words": ["who", "classleader" , "of" , "rpl"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["can" , "you" , "explain" , "to" , "me" , "about" ,"tubagus"],
+    "bot_response": "TB is a member of class 10 RPL who comes from Purwakarta, he is a person who is very passionate about what he likes, he will be willing to sacrifice a lot of time and energy to achieve what he wants.",
+    "required_words": ["explain", "about" , "tubagus"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["can" , "you" , "explain" , "to" , "me" , "about" ,"rakha"],
+    "bot_response": "TB is a member of class 10 RPL who comes from Purwakarta, he is a person who is very passionate about what he likes, he will be willing to sacrifice a lot of time and energy to achieve what he wants.",
+    "required_words": ["explain", "about" , "rakha"]
   }
+
 
 ]
