@@ -68,8 +68,8 @@
   {
     "response_type": "question",
     "user_input": ["who" , "are", "they", "in" , "class" , "X" , "RPL"],
-    "bot_response": "in X RPL There is : Rokan , Faizul , Awan , Fachry , Farrel , Fahmi , TB , Atahllah , Aisy , Naufal , Nadhif , Rakha , Raihan , ayyash , Dzikra , Regno",
-    "required_words": ["who", "in" , "rpl"]
+    "bot_response": "in X RPL There are : Rokan , Faizul , Awan , Fachry , Farrel , Fahmi , TB , Atahllah , Aisy , Naufal , Nadhif , Rakha , Raihan , ayyash , Dzikra , Regno",
+    "required_words": ["who", "they" , "rpl"]
   },
   {
     "response_type": "question",
@@ -118,6 +118,30 @@
     "user_input": ["can" , "you" , "explain" , "to" , "me" , "about" ,"ayyash"],
     "bot_response": "ayyash was born in depok, he is a student at IDN BS Senior High School, majoring in Software Developer, he Has a hobby of reading books, \nhe was born on October 5, 2006",
     "required_words": ["explain", "about" , "ayyash"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["can" , "you" , "explain" , "to" , "me" , "about" ,"farrel"],
+    "bot_response": "Farrell was born in the city of Bandar Lampung, one of the provinces in Sumatra, on 5 November 2006, he is obsessed with software development, and now he is studying at IDN Boarding School and choosing a software developer major.",
+    "required_words": ["explain", "about" , "farrel"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["can" , "you" , "explain" , "to" , "me" , "about" ,"nayuna"],
+    "bot_response": "Nayuna was born in Dumai 02-08-2006, He is a student at IDN Boarding School, He loves to think about something random, He is now studying about Software engineering stuff and he choose to be a software developer",
+    "required_words": ["explain", "about" , "nayuna"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["can" , "you" , "explain" , "to" , "me" , "about" ,"dzikra"],
+    "bot_response": "Dzikra,  a student currently studying in IDN Boarding School. was born in Bekasi and are around 16 years old. Dzikra has a strong interest in web development and is currently learning about it. In his free time, he enjoys playing games and exploring ways to customize keyboards. They also have a passion for cars and appreciate their design and engineering. Additionally, Dzikra has expressed an interest in women.",
+    "required_words": ["explain", "about" , "dzikra"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["can" , "you" , "explain" , "to" , "me" , "about" ,"naufal"],
+    "bot_response": "Naufal,  a student currently studying in IDN Boarding School. was born in Jakarta and are around 15 years old. naufal has a strong interest in web development and is currently learning about it. In his free time, he enjoys playing games and watching action movies. They also have a passion for motors and appreciate their design and performance. Additionally, Naufal is dasha taran's husband.",
+    "required_words": ["explain", "about" , "naufal"]
   }
 
 
